@@ -31,5 +31,5 @@ Esta aplicação Python analisa as relações de proximidade entre deputados bra
 
 ## ✍️ Autor
 
-Emanuelle Ferraz Lima
-Mateus Henrique Santos
+- Emanuelle Ferraz Lima
+- Mateus Henrique Santos
