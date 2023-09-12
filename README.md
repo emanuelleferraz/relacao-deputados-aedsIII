@@ -29,7 +29,7 @@ Esta aplicação Python analisa as relações de proximidade entre deputados bra
 ## ⚙️ Requisitos
 
 - Python 
-- Bibliotecas: `matplotlib`, `networkx`, `numpy`
+- Bibliotecas: `matplotlib`, `networkx`, `numpy`, `tkinter`
 
 ## ✍️ Autor
 
