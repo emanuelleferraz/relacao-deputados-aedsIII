@@ -1,4 +1,4 @@
-# 🇧🇷 Análise de Relações de Proximidade de Deputados Brasileiros
+# 👩‍💻 Análise de Relações de Proximidade de Deputados Brasileiros
 
 Esta aplicação Python analisa as relações de proximidade entre deputados brasileiros e gera três tipos de gráficos:
 
